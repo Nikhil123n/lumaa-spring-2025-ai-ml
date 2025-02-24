@@ -62,7 +62,7 @@ Top 5 movie recommendations:
 ```
 
 ## Demo
-Link to the Demo video 
+Video Demonstration of recommender.py can be found in demo.md.
 
 
 ## Final Notes:
