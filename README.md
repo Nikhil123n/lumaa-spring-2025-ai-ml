@@ -68,3 +68,7 @@ Video Demonstration of recommender.py can be found in demo.md.
 ## Final Notes:
 Ensure the Top_Movies.csv file exists and is structured with columns like Movie Name and Plot.
 The recommendations will be based on cosine similarity, and the program will return the top N closest matches (default is 5).
+
+## Salary Expectations
+My salary expectations depend on the funding status and the size of the startup. 
+Based on industry standards, I would expect a monthly salary in the range of *$3,200* to *$4,800* per month, which corresponds to an hourly rate of *$20 to $30*. I am open to further discussions depending on the responsibilities of the role.
