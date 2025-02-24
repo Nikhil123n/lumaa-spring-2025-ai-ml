@@ -15,7 +15,7 @@ This project is developed in Python 3.10.6 version
    ```
 
 2. Create a Python virtual environment:
-```bash
+   ```bash
    python -m venv env
    ```
 
@@ -62,7 +62,8 @@ Top 5 movie recommendations:
 ```
 
 ## Demo
-- 
+Link to the Demo video 
+
 
 ## Final Notes:
 Ensure the Top_Movies.csv file exists and is structured with columns like Movie Name and Plot.

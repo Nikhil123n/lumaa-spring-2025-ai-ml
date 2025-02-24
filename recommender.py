@@ -17,7 +17,6 @@ def preprocess_text(text):
     """Cleans and preprocesses movie plot descriptions."""
     if pd.isna(text):
         return ""
-    # Lowercasing the text
     text = text.lower()  
     # Removing special characters
     text = re.sub(r"[^a-zA-Z0-9\s]", "", text)  
